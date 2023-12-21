@@ -1,0 +1,155 @@
+.sectiongreen{
+    width: 100;
+    height: 40;
+    background-color: rgb(32, 225, 25);
+
+}
+.button{
+    text: size adjust 54px; ;
+    background-color: rgb(136, 255, 127);
+}
+.content2{
+    display: flex;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    margin-left:100px;
+}
+.right{
+    flex: 1;
+    margin-right:30px
+    display:inline-block;
+
+}
+.left{
+    margin-left: 30px;
+    display: inline-block;
+}
+.maincard{
+    display: flex;
+}
+.pictures{
+    display: flex;
+}
+.newmain{
+    display: flex;
+}
+.finalsection{
+    display: flex;
+}
+.cards{
+    display: flex;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+.greenblock{
+    background-color: rgb(5, 116, 38);
+    width: 100%;
+    height: 200;
+    display: flex;
+}
+.t1{
+    margin-left: 10px;
+
+}
+.t2{
+    margin-left: 20px;
+}
+.t3{
+    margin-left: 20px;
+}
+.t4{
+    margin-left: 20px;
+}
+.bblock{
+    display: flex;
+    background-color: black;
+}
+.f1{
+    color:white ;
+}
+.f2{
+    color: white;
+}
+.f3{
+    color: white;
+}
+.f4{
+    color: white;
+}
+.f5{
+    color: white;
+    margin-left: 20px;
+}
+.content{
+    position: relative;
+
+}
+.text1{
+    font-size: x-large;
+    position: absolute;
+    top:250px ;
+    left: 400px;
+    font-size: large;
+}
+.content{
+    position:relative ;
+}
+.button{
+    position: absolute;
+    top: 400px;
+    left: 500px;
+}
+.content2{
+    position: relative;
+}
+.text2{
+    font-size: x-large;
+    position: absolute;
+    top:180px;
+    left: 30px;
+}
+.left{
+    position: relative;
+}
+.text3{
+    width: 100px;
+    font-size: x-large;
+    position: absolute;
+    top: 150px;
+    left: 920px;
+}
+.section{
+    position: relative;
+}
+.text4{
+    position: absolute;
+    left: 600px;
+    top: 1500px;
+}
+.section4{
+    position: relative;
+}
+.text5{
+    position: absolute;
+    bottom: 10px;
+    left: 400px;
+}
+.food2 ul li {
+list-style-type: none;
+}
+.f1 ul li{
+list-style-type: none;
+}
+.f2 ul li{
+    list-style-type: none;
+}
+.f3 ul li{
+    list-style-type: none;
+}
+.f4 ul li{
+    list-style-type: none;
+}
